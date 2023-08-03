@@ -1,16 +1,14 @@
 Hello, I'm Subhash, and I currently work at Deloitte as a DC Analyst with 2.5 years of experience.
 
 I'm good at tackling challenges by breaking them down into manageable steps and simplifying complex problems, having client facing project exprience.
-I made sure to understand their needs and expectations, which helped us communicate smoothly and build positive working relationships.
 
-In terms of technical skills, I'm confident in handling application states using React libraries like Redux. 
-I'm also comfortable creating backend RESTful APIs with Express and managing data using MongoDB.
+In terms of technical skills, I'm confident in building frontend application with react and handling application states using React libraries like Redux. I'm also comfortable creating backend RESTful APIs with Express and managing data using MongoDB.
 
-In recognition of my work, I've received several awards, including the Applause Award for being a supportive team member,
-a Spot Award, and 2 R&R Awards for my excellent handling of CR changes as lead.
+In recognition of my work, I've received several awards, including the Applause Award for being a supportive team member, a Spot Award, and 2 R&R Awards for my excellent handling of CR changes.
 
-I'm passionate about driving innovation and I enjoy taking on new challenges, especially in fast-paced environments.
+I'm passionate about driving innovation and I enjoy taking on new challenges, and working on Innovative idea and converting them into marketable products.
 
-I joined UpGrad because I'm interested in exploring the world of Full Stack web development. As someone who works on the frontend,
-I'm excited to learn more about building entire web applications using JavaScript. My goal is to become a skilled Full Stack Developer and create comprehensive 
-solutions that utilize the capabilities of this versatile language.
+I bring a strong foundation in both front-end and back-end development, coupled with a problem-solving mindset and a commitment to staying current with industry trends, making me a valuable candidate.
+
+
+I joined UpGrad because I'm interested in learning full stack web application with MERN stack, which is not only limited to webapplication but also native apps with the help of React Native and desktop with electron JS.
